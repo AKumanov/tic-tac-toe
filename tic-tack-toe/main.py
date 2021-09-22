@@ -5,7 +5,7 @@ def show_board():
     print("Welcome to the Tic-Tac-Toe console game!")
     print("1 | 2 | 3")
     print("4 | 5 | 6")
-    print("7 | 8 | 9")
+    print("7 | 8 | 10")
 
 
 def attach_signs(player_info):
