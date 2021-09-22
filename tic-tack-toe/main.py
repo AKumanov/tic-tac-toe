@@ -28,9 +28,15 @@ def main():
     show_board()
     players = {}
     player_1 = input("First player's name: ")
-    player_2 = input("Second player's name: ")
-    players[0] = player_2
-    players[1] = player_1
+    while True:
+        player_2 = input("Second player's name: ")
+        if not player_1 == player_2:
+            players[0] = player_2
+            players[1] = player_1
+            break
+        else:
+            print("Name already taken.")
+            continue
 
     valid_signs = False
     while not valid_signs:

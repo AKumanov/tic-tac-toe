@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AdvancedUni/.idea/AdvancedUni.iml" filepath="$USER_HOME$/PycharmProjects/AdvancedUni/.idea/AdvancedUni.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/SoftAdvanced/.idea/SoftAdvanced.iml" filepath="$USER_HOME$/PycharmProjects/SoftAdvanced/.idea/SoftAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tic-tac-toe.iml" filepath="$PROJECT_DIR$/.idea/tic-tac-toe.iml" />
     </modules>
   </component>
